@@ -15,5 +15,5 @@
 
 ## 4. 개인정보 보고 책임자
 - 디스코드 : 강승우#6502
-- 연락처 : [mail](kchestnut05@gmail.com) / 디스코드 : 강승우#6502
+- 연락처 : [mail](mailto:kchestnut05@gmail.com) / 디스코드 : 강승우#6502
  
